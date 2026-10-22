@@ -15,7 +15,7 @@ Claude Code:
 /plugin install default-privacy@privacy-skills
 ```
 
-This installs the skill and the Default Privacy connector (`https://mcp.defaultprivacy.com`), so the skill can pull current guides and tools. No account or API key.
+This installs the skill and the Default Privacy connector (`https://mcp.defaultprivacy.com/`), so the skill can pull current guides and tools. No account or API key.
 
 Other agents that read `SKILL.md` files:
 
