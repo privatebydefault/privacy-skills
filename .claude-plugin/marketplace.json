@@ -1,0 +1,15 @@
+{
+  "name": "privacy-skills",
+  "description": "Privacy skills from Default Privacy for AI assistants.",
+  "owner": {
+    "name": "Default Privacy",
+    "url": "https://defaultprivacy.com"
+  },
+  "plugins": [
+    {
+      "name": "default-privacy",
+      "source": "./",
+      "description": "Ordered, sourced privacy plans from Default Privacy's free directory of privacy tools, guides and stacks. Includes the be-hard-to-find skill and the Default Privacy connector."
+    }
+  ]
+}
