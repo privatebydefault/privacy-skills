@@ -1,9 +1,10 @@
 {
   "name": "default-privacy",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Ordered, sourced privacy plans from Default Privacy's free directory of privacy tools, guides and stacks. Includes the be-hard-to-find skill and the Default Privacy connector.",
   "author": { "name": "Default Privacy", "url": "https://defaultprivacy.com" },
   "homepage": "https://defaultprivacy.com",
+  "privacyPolicyUrl": "https://defaultprivacy.com/privacy",
   "license": "MIT",
   "keywords": ["privacy", "data-brokers", "personal-safety", "degoogle", "opsec"]
 }
